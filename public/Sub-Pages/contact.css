@@ -1,0 +1,46 @@
+nav.navbar{
+    background-color:blueviolet !important;
+    
+}
+.nav-link{
+     color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.contact{
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+    
+}
+
+.con{
+    margin-top: 70px;
+     font-size: 30px;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.foot{
+   margin-top: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

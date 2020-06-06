@@ -1,0 +1,52 @@
+nav.navbar{
+    background-color:blueviolet !important;
+    
+}
+.nav-link{
+     color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.heading{
+    text-align: center;
+    font-weight: bold ;
+    color: brown;
+    margin-top: 20px;
+}
+
+.card{
+    width: 200px;
+    height: auto;
+}
+h5{
+    font-weight: bold;
+    color:blueviolet;
+}
+h2{
+    text-align: center;
+    padding-top: 20px;
+    color: brown;
+}
+.foot {
+    padding-top: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.foot .contactu p {
+    color: gray;
+    margin-top: -10px;
+}
+
+.foot div p img {
+    width: 14px;
+    height: 14px;
+}
+
+
+
+
+
+
+
